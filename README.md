@@ -160,7 +160,6 @@ Authorization: Token <token value>
       "name": "choco 2"
     }
   ]
-}
 ```
 
 ### Задание get_list "Как слышно" 
